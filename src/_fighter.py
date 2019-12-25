@@ -21,7 +21,7 @@ class Fighter:
     blockLimit = 3
     specialLimit = [12,7]
     hitSpecialLimit = [3,1]
-    specialSound = [["iceSound","Hit10"],["ComeHere"]]
+    specialSound = [["IceSound","Hit10"],["ComeHere"]]
     victoryLimit = 3
     fatalityLimit = 20
     dizzyLimit = 7
